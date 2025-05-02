@@ -1,4 +1,4 @@
-##ICS344 Phase 1 – Setup and Compromise the Service
+## ICS344 Phase 1 – Setup and Compromise the Service
 
 Group 07 – Second Semester 2024/2025
 
@@ -9,7 +9,7 @@ Group Members
 
 ⸻
 
-##Objective
+## Objective
 
 The goal of this phase is to simulate a security breach by setting up a vulnerable environment (Metasploitable3) and attacking it using Kali Linux. The focus is on compromising the SSH service using:
  • Metasploit Framework
@@ -19,7 +19,7 @@ This demonstrates a real-world scenario of exploiting weak/default credentials.
 
 ⸻
 
-##Environment Setup
+## Environment Setup
 
 Victim Machine: Metasploitable3
  • Deployed using VirtualBox
@@ -33,7 +33,7 @@ Attacker Machine: Kali Linux
 
 ⸻
 
-##Task 1.1 – Exploiting SSH with Metasploit
+## Task 1.1 – Exploiting SSH with Metasploit
  • Target Service: SSH
  • Port: 22
  • Tool: Metasploit
@@ -54,7 +54,7 @@ Outcome
 
 ⸻
 
-##Task 1.2 – Exploiting SSH with Custom Script
+## Task 1.2 – Exploiting SSH with Custom Script
  • Tool: Bash Script with sshpass
  • Target IP: 192.168.56.101
  • Credentials Used: vagrant:vagrant
@@ -71,7 +71,7 @@ Outcome
 
 ⸻
 
-##Key Takeaways
+## Key Takeaways
  • Default credentials pose serious security risks
  • Metasploit is a powerful tool for automating exploitation
  • Bash scripting can efficiently brute-force access
