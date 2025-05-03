@@ -18,6 +18,6 @@ This project involves three main phases:
 All group members collaborated equally on every phase of the project. We held regular meetings to complete the tasks together, ensuring shared understanding and contribution.
 
 ## Folder Structure
-- /Phase1: Victim/attacker setup, exploit scripts, screenshots
-- /Phase2: SIEM integration, dashboards, log analysis
-- /Phase3: Defense implementation, before/after results
+- Phase1: Victim/attacker setup, exploit scripts, screenshots
+- Phase2: SIEM integration, dashboards, log analysis
+- Phase3: Defense implementation, before/after results
