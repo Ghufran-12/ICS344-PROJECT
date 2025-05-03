@@ -22,14 +22,14 @@ This demonstrates a real-world scenario of exploiting weak/default credentials.
 ## Environment Setup
 
 Victim Machine: Metasploitable3
- • Deployed using VirtualBox
- • Logged in with default credentials: vagrant:vagrant
- • IP address obtained using ifconfig: 192.168.56.101
- • Network connectivity verified using ping
+ 1. Deployed using VirtualBox
+ 2. Logged in with default credentials: vagrant:vagrant
+ 3. IP address obtained using ifconfig: 192.168.56.101
+ 4. Network connectivity verified using ping
 
 Attacker Machine: Kali Linux
- • Installed and configured Metasploit Framework
- • Verified access to target machine over the network
+ 1. Installed and configured Metasploit Framework
+ 2. Verified access to target machine over the network
 
 ⸻
 
@@ -48,9 +48,9 @@ Steps
  4. Run the exploit command
 
 Outcome
- • SSH session established
- • Verified access with whoami
- • Confirmed system vulnerability due to default credentials
+ 1. SSH session established
+ 2. Verified access with whoami
+ 3. Confirmed system vulnerability due to default credentials
 
 ⸻
 
@@ -65,17 +65,17 @@ Steps
  3. On success, printed confirmation and executed whoami
 
 Outcome
- • Successful login with default credentials
- • Verified remote access
- • Demonstrated basic automation of credential attacks
+ 1. Successful login with default credentials
+ 2. Verified remote access
+ 3. Demonstrated basic automation of credential attacks
 
 ⸻
 
 ## Key Takeaways
- • Default credentials pose serious security risks
- • Metasploit is a powerful tool for automating exploitation
- • Bash scripting can efficiently brute-force access
- • Mitigation requires:
- • Changing default passwords
- • Enforcing strong credential policies
- • Adding protections like rate-limiting or multi-factor authentication
+ 1. Default credentials pose serious security risks
+ 2. Metasploit is a powerful tool for automating exploitation
+ 3. Bash scripting can efficiently brute-force access
+ 4. Mitigation requires:
+ 5. Changing default passwords
+ 6. Enforcing strong credential policies
+ 7. Adding protections like rate-limiting or multi-factor authentication
