@@ -1,4 +1,4 @@
-# ICS344-PROJECT
+# ICS344 Phase 2 – Visual Analysis with a SIEM Dashboard
 
 ## Group Number
 Group 07
@@ -9,10 +9,11 @@ Group 07
 3. Jood Faqera-202182590
 
 ## Project Overview
-This project involves three main phases:
-1. Setup & Compromise: We used Kali Linux to attack a vulnerable Metasploitable3 service (SSH) using Metasploit and a custom exploit script.
-2. SIEM Analysis: We integrated logs into Splunk to visualize and analyze the attack behavior.
-3. Defensive Strategy: We implemented security measures to prevent the same attack and validated the improvement.
+This phase aimed to deploy **Splunk** as a **Security Information and Event Management (SIEM)** tool to:  
+1. Centralize log collection and enable real-time threat monitoring.  
+2. Improve **incident response** with faster investigations.  
+3. Ensure compliance through log retention and support forensic analysis.  
+4. Visualize security events using dashboards for better threat detection and monitoring.
 
 ## Work Distribution
 All group members collaborated equally on every phase of the project. We held regular meetings to complete the tasks together, ensuring shared understanding and contribution.
