@@ -3,17 +3,17 @@
 Group 07 – Second Semester 2024/2025
 
 Group Members
- • Shahad Almarhoon – 202158610
- • Ghufran Alhulaymi – 202175090
- • Jood Faqera – 202182590
+ 1. Shahad Almarhoon – 202158610
+ 2. Ghufran Alhulaymi – 202175090
+ 3. Jood Faqera – 202182590
 
 ⸻
 
 ## Objective
 
 The goal of this phase is to simulate a security breach by setting up a vulnerable environment (Metasploitable3) and attacking it using Kali Linux. The focus is on compromising the SSH service using:
- • Metasploit Framework
- • A custom script (bash)
+ 1. Metasploit Framework
+ 2. A custom script (bash)
 
 This demonstrates a real-world scenario of exploiting weak/default credentials.
 
