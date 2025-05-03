@@ -44,7 +44,7 @@ Steps
 
 ⸻
 
-## Task 3.2 – Verifying the Fix
+## Task 3.2 – Verifying
 
 Verification Method:
  - Re-executed custom Phase 1 attack script
