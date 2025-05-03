@@ -4,9 +4,9 @@
 Group 07
 
 ## Group Members
--Shahad Almarhoon-202158610
--Ghufran Alhulaymi-202158610
--Jood Faqera-202182590
+Shahad Almarhoon-202158610
+Ghufran Alhulaymi-202158610
+Jood Faqera-202182590
 
 ## Project Overview
 This project involves three main phases:
